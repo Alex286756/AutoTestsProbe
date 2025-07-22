@@ -9,8 +9,6 @@ import java.util.Arrays;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import org.example.Student;
-
 class StudentTest {
     private Student<Integer> anna, petr;
 //    private Student<String> bob, phil;
