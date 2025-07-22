@@ -10,7 +10,7 @@ import java.util.Arrays;
 import static org.junit.jupiter.api.Assertions.*;
 
 class StudentTest {
-    private Student<Integer> anna, petr;
+    private org.example.Student<Integer> anna, petr;
 //    private Student<String> bob, phil;
 
     @BeforeEach
